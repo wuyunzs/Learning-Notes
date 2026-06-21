@@ -9,8 +9,8 @@
 
 | 阶段 | 模块 | 状态 | 语雀链接 |
 | :---: | :--- | :---: | :---: |
-| 1 | C 语言核心语法 | ✅ 已完成 | [查看](https://www.yuque.com/u66212500/epwygg/c.) |
-| 2 | C++ 语言核心语法与内存模型 | 🔄 进行中 | [查看](https://www.yuque.com/u66212500/epwygg/cpp.) |
+| 1 | C 语言 | ✅ 已完成 | [查看](https://www.yuque.com/u66212500/epwygg/c.) |
+| 2 | C++ | 🔄 进行中 | [查看](https://www.yuque.com/u66212500/epwygg/cpp.) |
 | 3 | 常见数据结构 | 📝 规划中 | - |
 | 4 | Windows SDK 与 MFC | 📝 规划中 | - |
 | 5 | Windows | 📝 规划中 | - |
