@@ -10,7 +10,7 @@
 | 阶段 | 模块 | 状态 | 语雀链接 |
 | :---: | :--- | :---: | :---: |
 | 1 | C 语言 | ✅ 已完成 | [查看](https://github.com/wuyunzs/Learning-Notes/blob/main/1.C.md) |
-| 2 | C++ | 🔄 进行中 | [查看](https://github.com/wuyunzs/Learning-Notes/blob/main/1.CPP.md) |
+| 2 | C++ | 🔄 进行中 | [查看](https://github.com/wuyunzs/Learning-Notes/blob/main/2.CPP.md) |
 | 3 | 常见数据结构 | 📝 规划中 | - |
 | 4 | Windows SDK 与 MFC | 📝 规划中 | - |
 
