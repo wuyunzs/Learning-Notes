@@ -9,8 +9,8 @@
 
 | 阶段 | 模块 | 状态 | 语雀链接 |
 | :---: | :--- | :---: | :---: |
-| 1 | C 语言 | ✅ 已完成 | [查看](https://www.yuque.com/u66212500/sre/_c) |
-| 2 | C++ | 🔄 进行中 | [查看](https://www.yuque.com/u66212500/sre/_cpp) |
+| 1 | C 语言 | ✅ 已完成 | [查看](https://github.com/wuyunzs/Learning-Notes/main/1.c.md) |
+| 2 | C++ | 🔄 进行中 | [查看](https://github.com/wuyunzs/Learning-Notes/main/1.cpp.md) |
 | 3 | 常见数据结构 | 📝 规划中 | - |
 | 4 | Windows SDK 与 MFC | 📝 规划中 | - |
 
@@ -33,11 +33,7 @@
 
 ---
 
-## 📖 关于语雀专栏
-更详细的图文笔记（含调试截图、踩坑记录、原理图解）更新在语雀：
-👉 **[访问我的语雀知识库](https://www.yuque.com/u66212500)**
 
----
 
 ## 📅 更新日志
 - 2026.06.21 — 初始化本仓库，梳理 12 个学习模块大纲
